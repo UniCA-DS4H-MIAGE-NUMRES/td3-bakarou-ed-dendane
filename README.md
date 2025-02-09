@@ -5,7 +5,7 @@ Ce projet, développé en binôme par **Hajar BAKAROU** et **Zahira ED-DENDANE**
 ---
 
 ## **Vidéo de démonstration**
-🔗 [Regarder la démonstration sur plusieurs plateformes](https://drive.google.com/file/d/1eb71C3SxK72X6VcsEZRoo7fxTvhU6Fix/view?usp=sharing)
+🔗 [Regarder la démonstration](https://drive.google.com/file/d/1eb71C3SxK72X6VcsEZRoo7fxTvhU6Fix/view?usp=sharing)
 
 ---
 
