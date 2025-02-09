@@ -65,3 +65,11 @@ L’application permet de commander des pizzas personnalisées et de gérer un p
 - **webMain :** Code pour la version Web avec Compose for Web.
 
 
+## 👩‍💻 Développé par
+
+- Hajar BAKAROU
+
+- Zahira ED-DENDANE
+
+## Université Côte d'Azur - DS4H - Master MIAGE NumRes
+## Cours de Programmation Mobile Moderne - Leo Donati
